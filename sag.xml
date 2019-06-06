@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<folder type="training Package">
+		<package>&#60;b&#62;Test 1 &#60;&#47;b&#62;</package>
+		<comp>&#60;b&#62;Amrita &#60;&#47;b&#62;</comp>
+		<title>Sruthi S  </title>
+		<description>&#60;b&#62;With the guidance of our beloved Chancellor Amma, the first Amrita School of Engineering was started in 1994 in Coimbatore. &#60;br &#47;&#62;Campuses:&#60;br&#47;&#62;
+		&#60;ul&#62;&#60;li&#62;Amritapuri &#60;&#47;li&#62;
+		&#60;li&#62;Ettimadai.&#60;&#47;li&#62;
+		&#60;li&#62;Ettimadai.&#60;&#47;li&#62;
+		&#60;li&#62;Banglore.&#60;&#47;li&#62;&#60;&#47;ul&#62;</description>
+	</folder>
+	<folder type="Training Package">
+		<package>Test 2</package>
+		<comp>&#60;b&#62; Amrita Labs &#60;&#47;b&#62;</comp>
+		<title>Amrita</title>
+		<description>AMMACHI Labs is an academic and research center at Amrita Vishwa Vidyapeetham that brings an interdisciplinary approach to addressing societal challenges.</description>
+	</folder>
+</SAG>
